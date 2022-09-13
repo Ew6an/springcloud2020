@@ -1,5 +1,2 @@
-dasdsa
-sasfsaf
-
-safasfas
-okok
+config:
+        info: "master branch,springcloud2020config-dev.yml version=1.0"
